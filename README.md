@@ -26,20 +26,4 @@ image. You should already know how to do this from Assignment #3. (You're only r
 cases with n≥1.)
 
 
-$Nymphia$正透過鏡子讀取記憶體上由8個01組成的二進位數字，由於透過鏡子會把資料左右順序相反過來，因此$Nymphia$直接把這些資料照鏡子看見的順序轉換成10進位後，與正確數字不一樣。你能協助$Nymphia$把錯誤的數字轉換成正確的數字嗎？
 
-\InputFile
-
-輸入只有一個數字N，保證$0\leq N 2^8$
-
-\OutputFile
-
-請輸出一個數字，最後面要換行。為正確解讀資料後得到的十進位數字
-
-\Examples
-
-IN
-144
-
-OUT
-9
