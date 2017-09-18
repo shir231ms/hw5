@@ -25,5 +25,5 @@ contents from the input image should be filled with white color.
 image. You should already know how to do this from Assignment #3. (You're only required to handle
 cases with n≥1.)
 
-
+$0\leq N 2^8$ 
 
